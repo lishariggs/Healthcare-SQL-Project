@@ -1,4 +1,6 @@
 # Healthcare-SQL-Project
+This project designs and implements a basic healthcare database to help a small clinic efficiently manage patients, doctors, appointments, and billing.
+By organizing critical information into well-structured SQL tables, the clinic can quickly retrieve data for operational planning, financial tracking, and patient care coordination.
 
 # Project Goal
 Objective: Create a database for a clinic to track patients, doctors, appointments, and billing.
